@@ -54,7 +54,6 @@ scrollbar_in_view=true
 transient_scrollbar=true
 transient_groove=true
 submenu_overlap=3
-tooltip_delay=-1
 tree_branch_line=true
 dark_titlebar=true
 
@@ -106,6 +105,7 @@ frame.top=3
 frame.bottom=3
 frame.left=3
 frame.right=3
+indicator.element=arrow
 interior=true
 interior.element=button
 indicator.size=9
@@ -116,7 +116,6 @@ text.toggle.color=#2e3440
 text.shadow=0
 text.margin=5
 text.iconspacing=16
-indicator.element=arrow
 text.margin.top=3
 text.margin.bottom=3
 text.margin.left=3
@@ -283,6 +282,7 @@ frame.expansion=0
 [ToolbarButton]
 interior.element=tbutton
 frame.element=tbutton
+indicator.element=tarrow
 text.normal.color=#eceff4
 text.focus.color=#eceff4
 text.toggle.color=#eceff4
@@ -432,9 +432,10 @@ frame.expansion=0
 
 [ComboBox]
 inherits=PanelButtonCommand
-interior.element=combo
-frame.element=combo
+interior.element=lineedit
+frame.element=lineedit
 text.press.color=#eceff4
+text.focus.color=#88c0d0
 text.toggle.color=#2e3440
 indicator.element=carrow
 
