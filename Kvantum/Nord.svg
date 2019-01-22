@@ -13,7 +13,7 @@
    height="1230"
    id="svg2751"
    sodipodi:docname="Nord.svg"
-   inkscape:version="1.0alpha (unknown)">
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
   <metadata
      id="metadata2755">
     <rdf:RDF>
@@ -41,9 +41,9 @@
      inkscape:window-height="480"
      id="namedview2753"
      showgrid="false"
-     inkscape:zoom="3.0047178"
-     inkscape:cx="378.17435"
-     inkscape:cy="101.85462"
+     inkscape:zoom="6.0094356"
+     inkscape:cx="272.67976"
+     inkscape:cy="1040.0882"
      inkscape:current-layer="svg2751" />
   <defs
      id="defs5">
@@ -1139,11 +1139,11 @@
          rx="2"
          height="16"
          ry="2"
-         style="fill:#88c0d0"
+         style="fill:#88c0d0;stroke:#2e3440;stroke-opacity:1"
          id="use3893"
          transform="scale(1,-1)" />
       <path
-         style="fill:#111217"
+         style="fill:#2e3440;fill-opacity:1"
          id="rect7313"
          d="m 352.1,-207 6.8,0 c 0.8864,0 1.6,0.669 1.6,1.5 0,0.831 -0.7136,1.5 -1.6,1.5 h -6.8 c -0.8864,0 -1.6,-0.669 -1.6,-1.5 0,-0.831 0.7136,-1.5 1.6,-1.5 z "
          transform="scale(1,-1)" />
@@ -1154,14 +1154,14 @@
        style="color:#000000;stroke:none">
       <ellipse
          id="use3869-6"
-         style="fill:none;stroke:#191919;stroke-opacity:1"
+         style="fill:none;stroke:#2e3440;stroke-opacity:1"
          ry="8"
          rx="7.9999995"
          cy="207.99921"
          cx="105.49873" />
       <ellipse
          id="path6309-3-7"
-         style="fill:#191919;stroke-width:1.274;fill-opacity:1"
+         style="fill:#2e3440;stroke-width:1.274;fill-opacity:1"
          ry="2.5"
          rx="2.5000014"
          cy="207.99921"
@@ -2785,43 +2785,6 @@
          d="m 283.3102,204.1733 -3.6775,4.2767 -1.9271,-1.3649 c -1.36466,-0.96654 -2.67814,1.25767 -1.56052,2.19687 l 3.5781,3.0068 5.5538,-6.5775 c 1.16417,-1.37876 -0.95766,-2.71149 -1.96677,-1.53793 z " />
     </g>
     <g
-       id="checkbox-checked-focused"
-       transform="translate(36,0)">
-      <rect
-         width="16"
-         x="272.5"
-         y="-215.99989"
-         rx="2"
-         height="16"
-         ry="2"
-         style="fill:#88c0d0"
-         id="rect5094"
-         transform="scale(1,-1)" />
-      <path
-         style="text-align:start;shape-rendering:auto;mix-blend-mode:normal;color-interpolation-filters:linearRGB;isolation:auto;white-space:normal;font-family:sans-serif;text-decoration-line:none;fill:#2e3440;solid-opacity:1;image-rendering:auto;text-decoration-style:solid;text-rendering:auto;solid-color:#000000;line-height:normal;text-decoration-color:#000000;fill-rule:evenodd;stroke-linecap:round;text-transform:none;stroke-width:3;color-rendering:auto;text-indent:0;color-interpolation:sRGB;fill-opacity:1"
-         id="path5096"
-         d="m 283.3102,204.1733 -3.6775,4.2767 -1.9271,-1.3649 c -1.36466,-0.96654 -2.67814,1.25767 -1.56052,2.19687 l 3.5781,3.0068 5.5538,-6.5775 c 1.16417,-1.37876 -0.95766,-2.71149 -1.96677,-1.53793 z " />
-    </g>
-    <g
-       id="checkbox-tristate-focused"
-       transform="translate(40,2.5)">
-      <rect
-         width="16"
-         x="347.5"
-         y="-213.5"
-         rx="2"
-         ry="2"
-         height="16"
-         style="fill:#88c0d0"
-         id="rect5109"
-         transform="scale(1,-1)" />
-      <path
-         style="fill:#363c48"
-         id="path5111"
-         d="m 352.1,-207 6.8,0 c 0.8864,0 1.6,0.669 1.6,1.5 0,0.831 -0.7136,1.5 -1.6,1.5 h -6.8 c -0.8864,0 -1.6,-0.669 -1.6,-1.5 0,-0.831 0.7136,-1.5 1.6,-1.5 z "
-         transform="scale(1,-1)" />
-    </g>
-    <g
        style="fill-rule:evenodd"
        id="g2423">
       <g
@@ -3160,25 +3123,15 @@
            rx="2"
            height="16"
            ry="2"
-           style="fill:none;stroke:#191919;stroke-opacity:1"
+           style="fill:none;stroke:#2e3440;stroke-opacity:1"
            id="rect4828"
            transform="scale(1,-1)" />
         <path
-           style="fill:#191919;fill-opacity:1"
+           style="fill:#2e3440;fill-opacity:1"
            id="path4830"
            d="m 352.1,-207 6.8,0 c 0.8864,0 1.6,0.669 1.6,1.5 0,0.831 -0.7136,1.5 -1.6,1.5 h -6.8 c -0.8864,0 -1.6,-0.669 -1.6,-1.5 0,-0.831 0.7136,-1.5 1.6,-1.5 z "
            transform="scale(1,-1)" />
       </g>
-    </g>
-    <g
-       style="fill-opacity:0;stroke:#fff"
-       id="g2499">
-      <ellipse
-         cx="68"
-         cy="232"
-         rx="7.5000072"
-         ry="7.5000076"
-         id="ellipse2582" />
     </g>
   </g>
   <g
@@ -4355,7 +4308,7 @@
      y="-241.2988"
      x="219.68478"
      width="15.000229"
-     style="color:#000000;fill:none;stroke:#191919;stroke-width:1.00157;stroke-miterlimit:4;stroke-dasharray:none" />
+     style="color:#000000;fill:none;stroke:#2e3440;stroke-width:1.00157;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
   <g
      id="menu-checkbox-checked-focused"
      style="color:#000000;stroke:none"
@@ -4363,7 +4316,7 @@
     <rect
        transform="scale(1,-1)"
        id="use3879-7"
-       style="fill:none;stroke:#191919;stroke-opacity:1;stroke-width:1.0015748;stroke-miterlimit:4;stroke-dasharray:none"
+       style="fill:none;stroke:#2e3440;stroke-opacity:1;stroke-width:1.0015748;stroke-miterlimit:4;stroke-dasharray:none"
        height="16"
        ry="2"
        rx="2"
@@ -4373,7 +4326,7 @@
     <path
        d="m 283.3102,204.1733 -3.6775,4.2767 -1.9271,-1.3649 c -1.36466,-0.96654 -2.67814,1.25767 -1.56052,2.19687 l 3.5781,3.0068 5.5538,-6.5775 c 1.16417,-1.37876 -0.95766,-2.71149 -1.96677,-1.53793 z"
        id="path5083-9"
-       style="line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;text-transform:none;white-space:normal;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#111217;fill-rule:evenodd;stroke-width:3;stroke-linecap:round;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto"
+       style="line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;text-transform:none;white-space:normal;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#2e3440;fill-rule:evenodd;stroke-width:3;stroke-linecap:round;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;fill-opacity:1"
        inkscape:connector-curvature="0" />
   </g>
   <use
@@ -4393,9 +4346,9 @@
      id="menu-radio-focused"
      ry="7.5000076"
      rx="7.5000072"
-     cy="232.29314"
-     cx="67.645134"
-     style="color:#000000;fill:none;stroke:#191919" />
+     cy="231.29471"
+     cx="129.04857"
+     style="color:#000000;fill:none;stroke:#2e3440;stroke-opacity:1" />
   <path
      d="m 136.79401,1197.6021 h 8 v 8 h -8 z"
      id="itemview-toggled-inactive"
